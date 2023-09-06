@@ -29,4 +29,4 @@ func main() {
 
 ## Credits
 
-Guo Y.K., MIT License
+GUO YANKE, MIT License
