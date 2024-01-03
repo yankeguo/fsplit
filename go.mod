@@ -1,4 +1,4 @@
-module github.com/guoyk93/fsplit
+module github.com/yankeguo/fsplit
 
 go 1.20
 

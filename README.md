@@ -7,7 +7,7 @@ a file writer in Golang with auto split by size
 ```go
 package main
 
-import "github.com/guoyk93/fsplit"
+import "github.com/yankeguo/fsplit"
 
 func main() {
 	w, _ := fsplit.NewWriter("test.bin", fsplit.WriterOptions{
